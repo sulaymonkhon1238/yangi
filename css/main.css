@@ -1,0 +1,22 @@
+body{
+    background: #004047;
+}
+.col h5{
+    color:  #79C8C7;
+}
+.col p{
+    color: #fff;
+}
+.big-text{
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.back{
+    width: 350px;
+    height: 253px;
+    background-image: url(../img/Background.png);
+    background-repeat: no-repeat;
+
+}
